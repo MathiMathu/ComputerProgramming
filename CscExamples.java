@@ -4,5 +4,4 @@ public class CscExamples
  String category;
  String text;
  
- 
 }
